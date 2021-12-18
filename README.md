@@ -1,3 +1,2 @@
 # Machine-Learning-and-Statistics
-Explaining why the repository exists, what is
-in it, and how to run the notebooks.
+Both notebooks are run through Jupyter. One notebook covers the scikit-learn library while the other covers the SciPy Stat library. 
