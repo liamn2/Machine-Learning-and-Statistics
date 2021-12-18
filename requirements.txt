@@ -1,3 +1,1 @@
-A requirements.txt file that enables someone to quickly run your notebooks
-with minimal configuration. You should also include any other required files such
-as data files and image files.
+All files are run in Jupyter notebooks. Any images or GIFS are linked through URLS's.
