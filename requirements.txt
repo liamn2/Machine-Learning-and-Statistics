@@ -1,1 +1,2 @@
 All files are run in Jupyter notebooks. Any images or GIFS are linked through URLS's.
+Run the latest version of Jupyter Notebooks for best results. 
