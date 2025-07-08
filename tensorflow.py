@@ -28,7 +28,9 @@ tf.UnconnectedGradients
 tf.Variable
 tf.Variable.SaveSliceInfo
 tf.VariableAggregation
-tf.VariableSynchronization
+tf.VariableSynchronization  
+--------------------------------  
+
 tf.abs
 tf.acos
 tf.acosh
