@@ -51,6 +51,7 @@ tf.assert_rank
 tf.atan
 tf.atan2
 tf.atanh
+-------------------
 tf.audio
 tf.audio.decode_wav
 tf.audio.encode_wav
